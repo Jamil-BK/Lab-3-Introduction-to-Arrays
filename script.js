@@ -4,7 +4,6 @@
 // Declaring an array with 5 elements (combination of strings and numbers)
 let myArray = ["Apple", 42, "Canada", 7, "Jamil"];
 
-// Logging the array to the console
 console.log(myArray);
 
 
@@ -25,7 +24,6 @@ let arrayLength = myArray.length;
 
 // Logging the length of the array to the console
 console.log(arrayLength, "- Number of elements in the array.",);
-
 
 
 // Step 4: Array Methods
